@@ -1,4 +1,6 @@
 # python-graph-gui
+Edited By: Abdel-Rahman Megahed, Seif Elewa, Youssef Mansi, and Maryam Nouh
+Edits: Added support for the following search algorithms A* Search, Greedy Search, Breadth-First Search, Depth-First Search, and Uniform-Cost Search.
 
 Author: Sharif Shaker
 
